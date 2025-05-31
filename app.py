@@ -11,7 +11,7 @@ import requests
 import glob
 
 BOT_TOKEN = '8040229917:AAGSVVbPpGol1E-ImXAdLkm2t71Pwf-Zi7A'
-CHAT_ID = '1843576106'
+CHAT_ID = '807153804'
 
 folder_path = "content/images/test"
 
