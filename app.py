@@ -122,7 +122,7 @@ def plot_results(results, image_path=None, image_data=None, result_name=None, bo
     return img
 
 # Load image
-st.title('Детекция индивидуальных средств защиты на стройплощадке')
+st.title('Приложение модели машинного зрения для детекции и автоматического контроля использования индивидуальных средств защиты на строительных площадках')
 # Загрузите изображение
 image = Image.open('Frame 48099524.jpg')
 
